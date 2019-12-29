@@ -1,0 +1,20 @@
+CKEDITOR.plugins.setLang('btcolors', 'en', {
+	text: 'Text color Bootstrap',
+	bg: 'Background color Bootstrap',
+	panelTitle: 'Color',
+	primary: 'Primary',
+	secondary: 'Secodary',
+	success: 'Success',
+	danger: 'Danger',
+	warning: 'Warning',
+	info: 'Info',
+	light: 'Light',
+	dark: 'Dark',
+	body: 'Body',
+	muted: 'Muted',
+	white: 'White',
+	'black-50': 'Black 50%',
+	'white-50': 'White 50%',
+	transparent: 'Transparent',
+	reset: 'Inherit'
+});
